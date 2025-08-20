@@ -60,4 +60,4 @@ Estas estrategias permiten **reducir el churn y aumentar la retención de client
 
 ## 📧 Contacto
 📩 Autor: *Olfer Andres Uribe Palomino*  
-🔗 LinkedIn: [tu-linkedin]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/olfer-andres-uribe-palomino))  
+🔗 LinkedIn: [tu-linkedin](https://www.linkedin.com/in/olfer-andres-uribe-palomino)  
